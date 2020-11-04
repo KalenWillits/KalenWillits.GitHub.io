@@ -1,8 +1,4 @@
----
-layout: page
-title: About
-permalink: /about/
----
+
 ### Data Scientist, Data Analyst, and Python Developer.
 
 From 2013 to 2018 I managed a music store in Hawaii where I learned critical small business practices. Once put to the test, I had the pleasure during my last year solving problems that increased gross revenue by nearly 20%. After my time in retail, I pursued aeronautics and which allowed me to gain an understanding and passion of science and mathematics.
