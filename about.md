@@ -1,3 +1,7 @@
+---
+layout: page
+permalink: \about\
+---
 
 ### Data Scientist, Data Analyst, and Python Developer.
 
