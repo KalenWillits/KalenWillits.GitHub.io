@@ -1,7 +1,6 @@
-
-
-# Teaching Your Computer To Read With Machine Learning
-
+---
+  title: Teaching Your Computer To Read With Machine Learning
+---
 Jupyter Notebook and prototype can be found in the [project repository on GitHub.](https://github.com/KalenWillits/CapstoneThree)
 
 ### The Problem
