@@ -1,6 +1,7 @@
-
-
-# Predicting Airline Flight Delays With Data Science
+---
+  layout: post
+  title: Predicting Airline Flight Delays With Data Science
+---
 
 Imagine yourself on the last day of work before the big family trip. You have coordinated with your manager to get extra time off, shopped for weeks to get the very best travel deals, and your phone gives you a notification that it’s time to check in for your flight. You choose preferred seating so that the kids don’t have to crawl on top of you to go to the bathroom and arrange for friends to pick you up. The next morning you pile everyone in the car, rush through security, and make it to your gate just in time to find out that the aircraft was rerouted due to a storm resulting in the airline scrambling for another aircraft. All the planning, preparation, and preferred seating is gone.
 

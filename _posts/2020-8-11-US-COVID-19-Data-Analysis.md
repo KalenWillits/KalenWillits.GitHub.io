@@ -1,8 +1,9 @@
 ---
+layout: post
 title: US COVID-19 Data Analysis
 ---
 
-Project analysis of the New York Times COVID-19 data. The story that we get from this data is difficult to take. It shows that COVID-19 is more deadly depending on where you are in the US and isolation lowers the chances of infection and death. It’s a tough story to wrap our heads around because infection and death should be dependent features.
+Analysis of the New York Times COVID-19 data. The story that we get from this data is difficult to take. It shows that COVID-19 is more deadly depending on where you are in the US and isolation lowers the chances of infection and death. It’s a tough story to wrap our heads around because infection and death should be dependent features.
 
 [The project notebook can be viewed on GitHub.](https://github.com/KalenWillits/Covid-19/blob/master/Covid-19.ipynb)
 ### The data is puzzling.

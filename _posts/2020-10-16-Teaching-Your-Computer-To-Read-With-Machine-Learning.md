@@ -1,11 +1,12 @@
 ---
+  layout: post
   title: Teaching Your Computer To Read With Machine Learning
 ---
-Jupyter Notebook and prototype can be found in the [project repository on GitHub.](https://github.com/KalenWillits/CapstoneThree)
 
-### The Problem
 
 In today’s instant gratification paradigm product documentation is getting replaced with YouTube videos and support calls. The willingness to understand is becoming a lost art. Technical products that require lengthy documentation are struggling to educate their customers. This results in frustration on both ends. I propose that we can supplement this documentation with a well-trained chatbot interface which would increase customer understanding by getting directly to the information they are looking for in a conversational way. Getting a chatbot to find documentation is simple enough, getting it to generalize well on new data is a challenge worth researching.
+
+Jupyter Notebook and prototype can be found in the [project repository on GitHub.](https://github.com/KalenWillits/CapstoneThree)
 
 I envision scanning a document using my smartphone, asking its digital assistant questions about the document, and having it reply as an expert on the subject. This requires an enormous amount of computational power and the clever use of natural language processing. To start our experiment, let’s first limit the success criteria to reading in Wikipedia articles and telling us if the article supports a true or false statement provided by us, the user.
 

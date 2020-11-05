@@ -1,3 +1,8 @@
+---
+  layout: page
+  title: Contact
+  permalink: /contact/
+---
 Please do not hesitate to contact me about data science services, projects questions, and opportunities. I look forward to working with you!
 
 Email: ForwardToKalen@Gmail.com
