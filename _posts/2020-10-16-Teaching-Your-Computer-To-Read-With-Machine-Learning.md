@@ -16,7 +16,7 @@ There are several parts to this chatbot. First, it’s going to have to be train
 
 I have chosen to use the “Rules of Chess” Wikipedia article for this purpose. Once the article is read in and processed, we can investigate how the chatbot will gain meaning from it. Once all the stop words are removed, we can begin processing. The task of processing an article involves something called tokenization. Tokenization cuts up the article into pieces called tokens. The relationship of these tokens can be measured by various algorithms.
 
->![](images/Teaching-Your-Computer-To-Read-With-Machine-Learning/wordcloud.png)
+>![](/images/Teaching-Your-Computer-To-Read-With-Machine-Learning/wordcloud.png)
 Word tokens as a word cloud generated from Wikipedia’s “Rules of Chess” article and processed for NLP.
 s
 ### Developing our Model
